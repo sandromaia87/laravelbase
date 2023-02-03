@@ -14,6 +14,7 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
         @livewireStyles
         @wireUiStyles
+        @powerGridStyles
         <script defer src="https://unpkg.com/alpinejs@3.10.5/dist/cdn.min.js"></script>
         </head>
     <body class="font-sans antialiased">
@@ -36,5 +37,6 @@
         </div>
         @livewireScripts
         @wireUiScripts
+        @powerGridScripts
     </body>
 </html>

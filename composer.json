@@ -13,6 +13,7 @@
         "livewire/livewire": "^2.11",
         "pestphp/pest": "^1.16",
         "pestphp/pest-plugin-laravel": "^1.1",
+        "power-components/livewire-powergrid": "^3.7",
         "spatie/laravel-permission": "^5.8",
         "wireui/wireui": "^1.17"
     },
